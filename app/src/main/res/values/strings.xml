@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FirebaseUserAuthLifecycle</string>
+    <string name="forget_password">Forgot Password ?</string>
+    <string name="login">Login</string>
+    <string name="phone">Phone</string>
+    <string name="or_login_using_your">Login using your</string>
+    <string name="need_new_account">Need new Account ?</string>
+    <string name="password">Password…</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_an_account">Already have an Account ?</string>
+    <string name="email">Email…</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="write_verification_code_here">Write verification code here…</string>
+    <string name="verify">Verify</string>
+    <string name="send_verification_code">Send Verification Code</string>
+    <string name="write_phone_number_here">Write phone number here…</string>
+    <string name="log_out">Log Out</string>
+    <string name="delete_account">Delete Account</string>
+</resources>
