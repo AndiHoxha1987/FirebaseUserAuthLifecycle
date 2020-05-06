@@ -3,7 +3,8 @@ Android, Java, Firebase, Authentication, UserLifecycle
 
 
 This project is base in firebase authentication. 
-Covered topices are:
+
+Covered topics are:
 - Create a user by email or phone authentication
 - Login by email or phone authentication
 - Reset password account for email authenticators
