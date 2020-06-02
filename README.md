@@ -12,5 +12,5 @@ Covered topics are:
 - Delete account
 
 
-The steps cover the whole lifecycle of a user from create to delete with firebase authentication.
-This project is very helpful for every app which use firebase as a back-end.
+The steps cover the whole lifecycle of a user from creating to delete with firebase authentication.
+This project is very helpful for every app which uses firebase as a back-end.
